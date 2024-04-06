@@ -1,0 +1,545 @@
+﻿Year,State,Production,NextVal
+2004,Andhra Pradesh,9601,11704
+2005,Andhra Pradesh,11704,11872
+2006,Andhra Pradesh,11872,13324
+2007,Andhra Pradesh,13324,14241
+2008,Andhra Pradesh,14241,10538
+2009,Andhra Pradesh,10538,7882.4
+2010,Andhra Pradesh,7882.4,7746.2
+2011,Andhra Pradesh,7746.2,6862.4
+2012,Andhra Pradesh,6862.4,6969.7
+2013,Andhra Pradesh,6969.7,7233.9
+2014,Andhra Pradesh,7233.9,7488.7
+2015,Andhra Pradesh,7488.7,7452.4
+2016,Andhra Pradesh,7452.4,8166.2
+2017,Andhra Pradesh,8166.2,8234.7
+2018,Andhra Pradesh,8234.7,8658.9
+2019,Andhra Pradesh,8658.9,7882.9
+2020,Andhra Pradesh,7882.9,7763.6
+2004,Arunachal Pradesh,135,146.2
+2005,Arunachal Pradesh,146.2,146.2
+2006,Arunachal Pradesh,146.2,158.1
+2007,Arunachal Pradesh,158.1,163.9
+2008,Arunachal Pradesh,163.9,215.8
+2009,Arunachal Pradesh,215.8,234
+2010,Arunachal Pradesh,234,255
+2011,Arunachal Pradesh,255,263
+2012,Arunachal Pradesh,263,276.2
+2013,Arunachal Pradesh,276.2,285
+2014,Arunachal Pradesh,285,204
+2015,Arunachal Pradesh,204,220
+2016,Arunachal Pradesh,220,233.3
+2017,Arunachal Pradesh,233.3,240
+2018,Arunachal Pradesh,240,244.7
+2019,Arunachal Pradesh,244.7,247.1
+2020,Arunachal Pradesh,247.1,252.4
+2004,Assam,3470.7,3552.5
+2005,Assam,3552.5,2916
+2006,Assam,2916,3319
+2007,Assam,3319,4008.5
+2008,Assam,4008.5,4335.9
+2009,Assam,4335.9,4736.6
+2010,Assam,4736.6,4516.3
+2011,Assam,4516.3,5128.5
+2012,Assam,5128.5,4927.1
+2013,Assam,4927.1,5222.7
+2014,Assam,5222.7,5125.1
+2015,Assam,5125.1,4727.4
+2016,Assam,4727.4,5283.7
+2017,Assam,5283.7,5220.6
+2018,Assam,5220.6,4984.6
+2019,Assam,4984.6,5214.8
+2020,Assam,5214.8,4382.1
+2004,Bihar,2472.2,3495.5
+2005,Bihar,3495.5,4989.3
+2006,Bihar,4989.3,4418.1
+2007,Bihar,4418.1,5590.3
+2008,Bihar,5590.3,3599.3
+2009,Bihar,3599.3,3102.1
+2010,Bihar,3102.1,7162.6
+2011,Bihar,7162.6,7529.3
+2012,Bihar,7529.3,5505.8
+2013,Bihar,5505.8,6356.7
+2014,Bihar,6356.7,6802.2
+2015,Bihar,6802.2,8239.3
+2016,Bihar,8239.3,8093.1
+2017,Bihar,8093.1,6155.5
+2018,Bihar,6155.5,6298
+2019,Bihar,6298,6747
+2020,Bihar,6747,7717
+2004,Chhattisgarh,4383.3,5011.6
+2005,Chhattisgarh,5011.6,5041.4
+2006,Chhattisgarh,5041.4,5426.6
+2007,Chhattisgarh,5426.6,4391.8
+2008,Chhattisgarh,4391.8,4110.4
+2009,Chhattisgarh,4110.4,6159
+2010,Chhattisgarh,6159,6028.4
+2011,Chhattisgarh,6028.4,6608.8
+2012,Chhattisgarh,6608.8,6716.4
+2013,Chhattisgarh,6716.4,6322.1
+2014,Chhattisgarh,6322.1,5789.4
+2015,Chhattisgarh,5789.4,8048.4
+2016,Chhattisgarh,8048.4,4930.8
+2017,Chhattisgarh,4930.8,6526.9
+2018,Chhattisgarh,6526.9,6774.8
+2019,Chhattisgarh,6774.8,7161.2
+2020,Chhattisgarh,7161.2,8021.7
+2004,NCT of Delhi,14.3,24
+2005,NCT of Delhi,24,31.1
+2006,NCT of Delhi,31.1,31.4
+2007,NCT of Delhi,31.4,31.4
+2008,NCT of Delhi,31.4,19.3
+2009,NCT of Delhi,19.3,19.6
+2010,NCT of Delhi,19.6,19.8
+2011,NCT of Delhi,19.8,19.7
+2012,NCT of Delhi,19.7,29.6
+2013,NCT of Delhi,29.6,25.9
+2014,NCT of Delhi,25.9,17.3
+2015,NCT of Delhi,17.3,17.3
+2016,NCT of Delhi,17.3,16.8
+2017,NCT of Delhi,16.8,16.8
+2018,NCT of Delhi,16.8,16.8
+2019,NCT of Delhi,16.8,19.8
+2020,NCT of Delhi,19.8,19
+2004,Goa,145.2,147.3
+2005,Goa,147.3,130.3
+2006,Goa,130.3,121.6
+2007,Goa,121.6,123.3
+2008,Goa,123.3,100.6
+2009,Goa,100.6,115
+2010,Goa,115,121.8
+2011,Goa,121.8,122.8
+2012,Goa,122.8,126.5
+2013,Goa,126.5,120.5
+2014,Goa,120.5,115.1
+2015,Goa,115.1,113.2
+2016,Goa,113.2,103
+2017,Goa,103,98.8
+2018,Goa,98.8,90.4
+2019,Goa,90.4,87.3
+2020,Goa,87.3,90.4
+2004,Gujarat,1238.2,1298
+2005,Gujarat,1298,1390
+2006,Gujarat,1390,1474
+2007,Gujarat,1474,1303
+2008,Gujarat,1303,1292
+2009,Gujarat,1292,1496.6
+2010,Gujarat,1496.6,1790
+2011,Gujarat,1790,1541
+2012,Gujarat,1541,1636
+2013,Gujarat,1636,1830.9
+2014,Gujarat,1830.9,1702
+2015,Gujarat,1702,1930
+2016,Gujarat,1930,1890.9
+2017,Gujarat,1890.9,1912.1
+2018,Gujarat,1912.1,1983.1
+2019,Gujarat,1983.1,2145.7
+2020,Gujarat,2145.7,2101.1
+2004,Haryana,3023,3210
+2005,Haryana,3210,3371
+2006,Haryana,3371,3613
+2007,Haryana,3613,3298
+2008,Haryana,3298,3625
+2009,Haryana,3625,3472
+2010,Haryana,3472,3759
+2011,Haryana,3759,3976
+2012,Haryana,3976,3998
+2013,Haryana,3998,4006
+2014,Haryana,4006,4145
+2015,Haryana,4145,4453
+2016,Haryana,4453,4523.38
+2017,Haryana,4523.38,4516.1
+2018,Haryana,4516.1,4824.3
+2019,Haryana,4824.3,4424.9
+2020,Haryana,4424.9,4618
+2004,Himachal Pradesh,122,112.1
+2005,Himachal Pradesh,112.1,123.5
+2006,Himachal Pradesh,123.5,121.5
+2007,Himachal Pradesh,121.5,118.3
+2008,Himachal Pradesh,118.3,105.9
+2009,Himachal Pradesh,105.9,128.9
+2010,Himachal Pradesh,128.9,131.6
+2011,Himachal Pradesh,131.6,125.3
+2012,Himachal Pradesh,125.3,120.8
+2013,Himachal Pradesh,120.8,125.2
+2014,Himachal Pradesh,125.2,129.9
+2015,Himachal Pradesh,129.9,146.6
+2016,Himachal Pradesh,146.6,114.79
+2017,Himachal Pradesh,114.79,114.9
+2018,Himachal Pradesh,114.9,143.8
+2019,Himachal Pradesh,143.8,140.5
+2020,Himachal Pradesh,140.5,167.5
+2004,Jammu & Kashmir,492.2,556.8
+2005,Jammu & Kashmir,556.8,554
+2006,Jammu & Kashmir,554,561.3
+2007,Jammu & Kashmir,561.3,563.1
+2008,Jammu & Kashmir,563.1,497.4
+2009,Jammu & Kashmir,497.4,507.7
+2010,Jammu & Kashmir,507.7,544.7
+2011,Jammu & Kashmir,544.7,818.1
+2012,Jammu & Kashmir,818.1,610.9
+2013,Jammu & Kashmir,610.9,517.2
+2014,Jammu & Kashmir,517.2,646.4
+2015,Jammu & Kashmir,646.4,572.2
+2016,Jammu & Kashmir,572.2,513.14
+2017,Jammu & Kashmir,513.14,615.8
+2018,Jammu & Kashmir,615.8,587
+2019,Jammu & Kashmir,587,581.5
+2020,Jammu & Kashmir,581.5,492.9
+2004,Jharkhand,1677,1558
+2005,Jharkhand,1558,2967.8
+2006,Jharkhand,2967.8,3336.4
+2007,Jharkhand,3336.4,3420.2
+2008,Jharkhand,3420.2,1538.4
+2009,Jharkhand,1538.4,1110
+2010,Jharkhand,1110,3130.6
+2011,Jharkhand,3130.6,3164.9
+2012,Jharkhand,3164.9,2810.6
+2013,Jharkhand,2810.6,3361.9
+2014,Jharkhand,3361.9,2882.2
+2015,Jharkhand,2882.2,3841.8
+2016,Jharkhand,3841.8,4078.04
+2017,Jharkhand,4078.04,2893.9
+2018,Jharkhand,2893.9,3012.8
+2019,Jharkhand,3012.8,2752.9
+2020,Jharkhand,2752.9,2930.5
+2004,Karnataka,3547,5744
+2005,Karnataka,5744,3446
+2006,Karnataka,3446,3717
+2007,Karnataka,3717,3802
+2008,Karnataka,3802,3691
+2009,Karnataka,3691,4188
+2010,Karnataka,4188,3955
+2011,Karnataka,3955,3364
+2012,Karnataka,3364,3572.6
+2013,Karnataka,3572.6,3541
+2014,Karnataka,3541,3021
+2015,Karnataka,3021,2604.8
+2016,Karnataka,2604.8,3017.1
+2017,Karnataka,3017.1,3431
+2018,Karnataka,3431,3634.5
+2019,Karnataka,3634.5,4291.8
+2020,Karnataka,4291.8,4318.4
+2004,Kerala,667.1,629.9
+2005,Kerala,629.9,631
+2006,Kerala,631,528.5
+2007,Kerala,528.5,590.3
+2008,Kerala,590.3,598.3
+2009,Kerala,598.3,522.7
+2010,Kerala,522.7,569
+2011,Kerala,569,508.3
+2012,Kerala,508.3,509.2
+2013,Kerala,509.2,562.1
+2014,Kerala,562.1,549.3
+2015,Kerala,549.3,437.1
+2016,Kerala,437.1,521.3
+2017,Kerala,521.3,578.3
+2018,Kerala,578.3,605.6
+2019,Kerala,605.6,633.8
+2020,Kerala,633.8,487
+2004,Madhya Pradesh,1169,1656.3
+2005,Madhya Pradesh,1656.3,1368.4
+2006,Madhya Pradesh,1368.4,1461.9
+2007,Madhya Pradesh,1461.9,1559.7
+2008,Madhya Pradesh,1559.7,1260.6
+2009,Madhya Pradesh,1260.6,1772.1
+2010,Madhya Pradesh,1772.1,2227.3
+2011,Madhya Pradesh,2227.3,2775
+2012,Madhya Pradesh,2775,2844.8
+2013,Madhya Pradesh,2844.8,3625.3
+2014,Madhya Pradesh,3625.3,3546.7
+2015,Madhya Pradesh,3546.7,4226.8
+2016,Madhya Pradesh,4226.8,4123.9
+2017,Madhya Pradesh,4123.9,4494.7
+2018,Madhya Pradesh,4494.7,4778.2
+2019,Madhya Pradesh,4778.2,4413.8
+2020,Madhya Pradesh,4413.8,4814.9
+2004,Maharashtra,2164,2695
+2005,Maharashtra,2695,2569
+2006,Maharashtra,2569,2996
+2007,Maharashtra,2996,2284
+2008,Maharashtra,2284,2183
+2009,Maharashtra,2183,2696
+2010,Maharashtra,2696,2841
+2011,Maharashtra,2841,3057
+2012,Maharashtra,3057,3120
+2013,Maharashtra,3120,2946
+2014,Maharashtra,2946,2593
+2015,Maharashtra,2593,3109.5
+2016,Maharashtra,3109.5,2730.8
+2017,Maharashtra,2730.8,3275.7
+2018,Maharashtra,3275.7,2897.6
+2019,Maharashtra,2897.6,3291.7
+2020,Maharashtra,3291.7,3598.1
+2004,Manipur,435.9,386.1
+2005,Manipur,386.1,386.1
+2006,Manipur,386.1,406.2
+2007,Manipur,406.2,397
+2008,Manipur,397,319.9
+2009,Manipur,319.9,521.7
+2010,Manipur,521.7,591
+2011,Manipur,591,257.6
+2012,Manipur,257.6,398.5
+2013,Manipur,398.5,334.1
+2014,Manipur,334.1,338.8
+2015,Manipur,338.8,430.4
+2016,Manipur,430.4,607.8
+2017,Manipur,607.8,401.6
+2018,Manipur,401.6,385.5
+2019,Manipur,385.5,602.2
+2020,Manipur,602.2,567.4
+2004,Meghalaya,193.7,151.9
+2005,Meghalaya,151.9,200.2
+2006,Meghalaya,200.2,200
+2007,Meghalaya,200,203.9
+2008,Meghalaya,203.9,206.7
+2009,Meghalaya,206.7,207
+2010,Meghalaya,207,216.5
+2011,Meghalaya,216.5,232
+2012,Meghalaya,232,273.9
+2013,Meghalaya,273.9,298.2
+2014,Meghalaya,298.2,301.1
+2015,Meghalaya,301.1,203
+2016,Meghalaya,203,304.6
+2017,Meghalaya,304.6,202
+2018,Meghalaya,202,303.4
+2019,Meghalaya,303.4,295.9
+2020,Meghalaya,295.9,297.3
+2004,Mizoram,104.1,99.2
+2005,Mizoram,99.2,29.5
+2006,Mizoram,29.5,15.7
+2007,Mizoram,15.7,46
+2008,Mizoram,46,44.3
+2009,Mizoram,44.3,47.2
+2010,Mizoram,47.2,54.3
+2011,Mizoram,54.3,30.5
+2012,Mizoram,30.5,59
+2013,Mizoram,59,60.7
+2014,Mizoram,60.7,62.1
+2015,Mizoram,62.1,61.5
+2016,Mizoram,61.5,59.6
+2017,Mizoram,59.6,60
+2018,Mizoram,60,60
+2019,Mizoram,60,62.2
+2020,Mizoram,62.2,60.9
+2004,Nagaland,259.8,263.1
+2005,Nagaland,263.1,263.5
+2006,Nagaland,263.5,290.6
+2007,Nagaland,290.6,345.1
+2008,Nagaland,345.1,240.3
+2009,Nagaland,240.3,381.4
+2010,Nagaland,381.4,382.4
+2011,Nagaland,382.4,405.2
+2012,Nagaland,405.2,429.6
+2013,Nagaland,429.6,454.2
+2014,Nagaland,454.2,318.8
+2015,Nagaland,318.8,336.7
+2016,Nagaland,336.7,349.6
+2017,Nagaland,349.6,356.7
+2018,Nagaland,356.7,363.3
+2019,Nagaland,363.3,367.4
+2020,Nagaland,367.4,150.7
+2004,Odisha,6466,6859
+2005,Odisha,6859,6824.7
+2006,Odisha,6824.7,7540.7
+2007,Odisha,7540.7,6812.7
+2008,Odisha,6812.7,6917.5
+2009,Odisha,6917.5,6827.7
+2010,Odisha,6827.7,5807
+2011,Odisha,5807,7295.5
+2012,Odisha,7295.5,7613.4
+2013,Odisha,7613.4,8298.2
+2014,Odisha,8298.2,5875.4
+2015,Odisha,5875.4,8325.9
+2016,Odisha,8325.9,6551.3
+2017,Odisha,6551.3,7733.7
+2018,Odisha,7733.7,8360.4
+2019,Odisha,8360.4,8810.3
+2020,Odisha,8810.3,9290.8
+2004,Puducherry,65.7,59.9
+2005,Puducherry,59.9,59.9
+2006,Puducherry,59.9,53.4
+2007,Puducherry,53.4,50.8
+2008,Puducherry,50.8,52.4
+2009,Puducherry,52.4,52
+2010,Puducherry,52,42.1
+2011,Puducherry,42.1,46.5
+2012,Puducherry,46.5,49.8
+2013,Puducherry,49.8,52.7
+2014,Puducherry,52.7,43.9
+2015,Puducherry,43.9,52.2
+2016,Puducherry,52.2,42.5
+2017,Puducherry,42.5,63.3
+2018,Puducherry,63.3,59.4
+2019,Puducherry,59.4,50
+2020,Puducherry,50,57.1
+2004,Punjab,10437,10193
+2005,Punjab,10193,10138
+2006,Punjab,10138,10489
+2007,Punjab,10489,11000
+2008,Punjab,11000,11236
+2009,Punjab,11236,10837
+2010,Punjab,10837,10542
+2011,Punjab,10542,11374
+2012,Punjab,11374,11267
+2013,Punjab,11267,11107
+2014,Punjab,11107,11823
+2015,Punjab,11823,11586.2
+2016,Punjab,11586.2,13381.79
+2017,Punjab,13381.79,12821.6
+2018,Punjab,12821.6,11779.3
+2019,Punjab,11779.3,12783.7
+2020,Punjab,12783.7,12885.5
+2004,Rajasthan,150.4,153
+2005,Rajasthan,153,169.8
+2006,Rajasthan,169.8,259.6
+2007,Rajasthan,259.6,241.1
+2008,Rajasthan,241.1,228.3
+2009,Rajasthan,228.3,265.5
+2010,Rajasthan,265.5,253.4
+2011,Rajasthan,253.4,222.5
+2012,Rajasthan,222.5,312.6
+2013,Rajasthan,312.6,366.7
+2014,Rajasthan,366.7,369.8
+2015,Rajasthan,369.8,452.7
+2016,Rajasthan,452.7,450.87
+2017,Rajasthan,450.87,453.2
+2018,Rajasthan,453.2,480.5
+2019,Rajasthan,480.5,634
+2020,Rajasthan,634,478.6
+2004,Sikkim,21.6,21.5
+2005,Sikkim,21.5,21.5
+2006,Sikkim,21.5,22.9
+2007,Sikkim,22.9,21.7
+2008,Sikkim,21.7,24.3
+2009,Sikkim,24.3,21
+2010,Sikkim,21,20.9
+2011,Sikkim,20.9,21.3
+2012,Sikkim,21.3,20.3
+2013,Sikkim,20.3,20.1
+2014,Sikkim,20.1,13.1
+2015,Sikkim,13.1,19.7
+2016,Sikkim,19.7,17.63
+2017,Sikkim,17.63,17.2
+2018,Sikkim,17.2,16.1
+2019,Sikkim,16.1,16.2
+2020,Sikkim,16.2,16
+2004,Tamil Nadu,5062.2,5220
+2005,Tamil Nadu,5220,6610.6
+2006,Tamil Nadu,6610.6,5040.2
+2007,Tamil Nadu,5040.2,5182.7
+2008,Tamil Nadu,5182.7,5665.2
+2009,Tamil Nadu,5665.2,5792.4
+2010,Tamil Nadu,5792.4,7458.7
+2011,Tamil Nadu,7458.7,4049.9
+2012,Tamil Nadu,4049.9,5349.8
+2013,Tamil Nadu,5349.8,5727.8
+2014,Tamil Nadu,5727.8,7517.1
+2015,Tamil Nadu,7517.1,2369.4
+2016,Tamil Nadu,2369.4,6638.9
+2017,Tamil Nadu,6638.9,6130.9
+2018,Tamil Nadu,6130.9,7171.1
+2019,Tamil Nadu,7171.1,6881.2
+2020,Tamil Nadu,6881.2,7906.6
+2004,Telangana,6477.9,6477.9
+2005,Telangana,6477.9,6477.9
+2006,Telangana,6477.9,6477.9
+2007,Telangana,6477.9,6477.9
+2008,Telangana,6477.9,6477.9
+2009,Telangana,6477.9,6535.6
+2010,Telangana,6535.6,5148.8
+2011,Telangana,5148.8,4647.6
+2012,Telangana,4647.6,5755
+2013,Telangana,5755,4440.8
+2014,Telangana,4440.8,3047
+2015,Telangana,3047,5173.4
+2016,Telangana,5173.4,6262.2
+2017,Telangana,6262.2,6670
+2018,Telangana,6670,7427.8
+2019,Telangana,7427.8,10217.1
+2020,Telangana,10217.1,12409.6
+2004,Tripura,545.1,552.9
+2005,Tripura,552.9,620.5
+2006,Tripura,620.5,624.6
+2007,Tripura,624.6,627.1
+2008,Tripura,627.1,640
+2009,Tripura,640,702.5
+2010,Tripura,702.5,718.3
+2011,Tripura,718.3,713.2
+2012,Tripura,713.2,711.8
+2013,Tripura,711.8,747
+2014,Tripura,747,794.8
+2015,Tripura,794.8,814.6
+2016,Tripura,814.6,812.1
+2017,Tripura,812.1,793.2
+2018,Tripura,793.2,810.2
+2019,Tripura,810.2,803.1
+2020,Tripura,803.1,811
+2004,Uttar Pradesh,9555.6,11133.7
+2005,Uttar Pradesh,11133.7,11124
+2006,Uttar Pradesh,11124,11780
+2007,Uttar Pradesh,11780,13097
+2008,Uttar Pradesh,13097,10807.1
+2009,Uttar Pradesh,10807.1,11992
+2010,Uttar Pradesh,11992,14022
+2011,Uttar Pradesh,14022,14416
+2012,Uttar Pradesh,14416,14636
+2013,Uttar Pradesh,14636,12167.9
+2014,Uttar Pradesh,12167.9,12501
+2015,Uttar Pradesh,12501,13754
+2016,Uttar Pradesh,13754,13274
+2017,Uttar Pradesh,13274,15545.3
+2018,Uttar Pradesh,15545.3,15517.8
+2019,Uttar Pradesh,15517.8,15520
+2020,Uttar Pradesh,15520,15271.5
+2004,Uttarakhand,572,590
+2005,Uttarakhand,590,556
+2006,Uttarakhand,556,593
+2007,Uttarakhand,593,582
+2008,Uttarakhand,582,608
+2009,Uttarakhand,608,550.4
+2010,Uttarakhand,550.4,594
+2011,Uttarakhand,594,579.8
+2012,Uttarakhand,579.8,578.6
+2013,Uttarakhand,578.6,603.7
+2014,Uttarakhand,603.7,639.1
+2015,Uttarakhand,639.1,630
+2016,Uttarakhand,630,646.7
+2017,Uttarakhand,646.7,617.6
+2018,Uttarakhand,617.6,658.4
+2019,Uttarakhand,658.4,714.9
+2020,Uttarakhand,714.9,716.1
+2004,West Bengal,14884.8,14510.8
+2005,West Bengal,14510.8,14745.9
+2006,West Bengal,14745.9,14719.5
+2007,West Bengal,14719.5,15037.3
+2008,West Bengal,15037.3,14340.7
+2009,West Bengal,14340.7,13045.9
+2010,West Bengal,13045.9,14605.8
+2011,West Bengal,14605.8,15023.7
+2012,West Bengal,15023.7,15370.7
+2013,West Bengal,15370.7,14677.2
+2014,West Bengal,14677.2,15953.9
+2015,West Bengal,15953.9,15302.5
+2016,West Bengal,15302.5,14967
+2017,West Bengal,14967,16242.2
+2018,West Bengal,16242.2,15881.4
+2019,West Bengal,15881.4,16524.4
+2020,West Bengal,16524.4,16728.7
+2004,ALL INDIA,83131.7,91793.4
+2005,ALL INDIA,91793.4,93355.3
+2006,ALL INDIA,93355.3,96692.9
+2007,ALL INDIA,96692.9,99182.5
+2008,ALL INDIA,99182.5,89092.9
+2009,ALL INDIA,89092.9,95979.8
+2010,ALL INDIA,95979.8,105310.9
+2011,ALL INDIA,105310.9,105231.6
+2012,ALL INDIA,105231.6,106645.5
+2013,ALL INDIA,106645.5,104798.5
+2014,ALL INDIA,104798.5,104408.2
+2015,ALL INDIA,104408.2,109698.4
+2016,ALL INDIA,109698.4,112757.6
+2017,ALL INDIA,112757.6,116477.8
+2018,ALL INDIA,116477.8,118870.3
+2019,ALL INDIA,118870.3,124368.3
+2020,ALL INDIA,124368.3,129471.4
